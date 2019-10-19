@@ -11,3 +11,4 @@ Implementations of Machine Learning and Data Science Methods in Politics.
 + [Machine Learning and Data Science in Politics - MIT](http://web.mit.edu/insong/www/pdf/syl-poldata.pdf)
 + [Introduction to Machine Learning: Political Science - Stanford University](http://stanford.edu/~jgrimmer/machineSyll.pdf)
 + [Machine Learning in Political Science - Cambridge University](https://www.cambridge.org/core/journals/political-analysis/special-collections/machine-learning-in-political-science)
++ [Gentle Introduction to Machine Learning for the Social Sciences - Europan Consortium for Political Research](https://ecpr.eu/Events/PanelDetails.aspx?PanelID=7074&EventID=116)
