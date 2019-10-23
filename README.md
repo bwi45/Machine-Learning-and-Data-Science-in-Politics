@@ -16,4 +16,4 @@ Implementations of Machine Learning and Data Science Methods in Politics.
 ## Books
 + **2017**. [Andrea Ceron, Luigi Curini, Stefano Maria Iacus - Politics and Big Data: Nowcasting and Forecasting Elections with Social Media - Routledge](https://www.amazon.com/Politics-Big-Data-Nowcasting-Forecasting-ebook/dp/B01MZ1FISW)
 + **2018**. [Kosuke Imai - Quantitative Social Science: An Introduction - Princeton University Press](https://www.amazon.com/Quantitative-Social-Science-Kosuke-Imai/dp/0691175462)
-+ **2019**. [Puneet Mathur - Machine Learning Applications Using Python: Cases Studies from Healthcare, Retail, and Finance](https://www.amazon.com/Machine-Learning-Applications-Using-Python/dp/1484237862)
++ **2019**. [Puneet Mathur - Machine Learning Applications Using Python: Cases Studies from Healthcare, Retail, and Finance - Apress](https://www.amazon.com/Machine-Learning-Applications-Using-Python/dp/1484237862)
