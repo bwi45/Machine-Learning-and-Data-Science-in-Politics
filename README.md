@@ -21,7 +21,11 @@ Implementations of Machine Learning and Data Science Methods in Politics.
 + **2019**. [Puneet Mathur - Machine Learning Applications Using Python: Cases Studies from Healthcare, Retail, and Finance - Apress](https://www.amazon.com/Machine-Learning-Applications-Using-Python/dp/1484237862)
 
 #### Journals
-+ 
++ **Journal of Politics**: [Scimago](https://www.scimagojr.com/journalsearch.php?q=20333&tip=sid&clean=0) | [Web](https://www.journals.uchicago.edu/journals/jop/about?mobileUi=0&)
++ **World Politics**: [Scimago](https://www.scimagojr.com/journalsearch.php?q=25725&tip=sid&clean=0) | [Web](https://www.cambridge.org/core/journals/world-politics)
++ **Geopolitics**: [Scimago](https://www.scimagojr.com/journalsearch.php?q=25118&tip=sid&clean=0) | [Web](https://taylorandfrancis.com/)
++ **Politics**: [Scimago](https://www.scimagojr.com/journalsearch.php?q=4000149610&tip=sid&clean=0) | [Web](https://onlinelibrary.wiley.com/)
++ **Asian Politics and Policy**: [Scimago](https://www.scimagojr.com/journalsearch.php?q=19900191541&tip=sid&clean=0) | [Web](https://onlinelibrary.wiley.com/journal/19430787)
 
 #### Packages
 + **Politics - Python**: [**serenata-de-amor**: Artificial Intelligence for social control of public administration](https://github.com/okfn-brasil/serenata-de-amor) | [**grano**: A toolkit for mapping networks of political and economic influence through diverse types of entities and their relations](https://github.com/ANCIR/grano) | [**OpenCiviWiki**:  Building a Better Democracy for the Internet Age](https://github.com/CiviWiki/OpenCiviWiki) | [**opensanctions**: An open database of persons of interest and politically exposed persons](https://github.com/alephdata/opensanctions)
