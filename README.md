@@ -16,8 +16,8 @@ Implementations of Machine Learning and Data Science Methods in Politics.
 + [Gentle Introduction to Machine Learning for the Social Sciences - Europan Consortium for Political Research](https://ecpr.eu/Events/PanelDetails.aspx?PanelID=7074&EventID=116)
 
 #### Lab, Research Group, and People
-+ **D-Lab** The social science data lab at UC Berkeley: [Web](https://dlab.berkeley.edu/) | [GitHub](https://github.com/dlab-berkeley) | [Rochelle Terman, PhD](https://github.com/rochelleterman)
-+ **IDSS: LobbyView & TradeLab** Institute for Data, Systems, and Society (IDSS) at Massachusetts Institute of Technology: [Web](https://idss.mit.edu/) | [In Song Kim, PhD](http://web.mit.edu/insong/www/)
++ **D-Lab** - The social science data lab at UC Berkeley: [Web](https://dlab.berkeley.edu/) | [GitHub](https://github.com/dlab-berkeley) | [Rochelle Terman, PhD](https://github.com/rochelleterman)
++ **IDSS: LobbyView & TradeLab** - Institute for Data, Systems, and Society (IDSS) at Massachusetts Institute of Technology: [Web](https://idss.mit.edu/) | [In Song Kim, PhD](http://web.mit.edu/insong/www/)
 
 #### Books
 + **2017**. [Andrea Ceron, Luigi Curini, Stefano Maria Iacus - Politics and Big Data: Nowcasting and Forecasting Elections with Social Media - Routledge](https://www.amazon.com/Politics-Big-Data-Nowcasting-Forecasting-ebook/dp/B01MZ1FISW)
